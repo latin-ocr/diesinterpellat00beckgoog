@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diesinterpellat00beckgoog_0175.png"; bbox 0 0 4782 6002; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 830 1771 3236 2374">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 1581 3236 2374">
+     <span class='ocr_line' id='line_1_1' title="bbox 1501 1771 2561 1946; baseline 0.003 -5.081"><span class='ocrx_word' id='word_1_1' title='bbox 1501 1793 1591 1941; x_wconf 97' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1688 1792 2013 1946; x_wconf 70' lang='grc' dir='ltr'><strong>ΜΘΝ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2106 1771 2561 1944; x_wconf 76' lang='grc' dir='ltr'><strong>ΡΕΒΕ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 830 2199 3236 2374; baseline 0 -3"><span class='ocrx_word' id='word_1_4' title='bbox 830 2222 924 2372; x_wconf 95' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1018 2222 1203 2372; x_wconf 85' lang='lat' dir='ltr'><strong>LA</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1300 2199 2042 2373; x_wconf 75' lang='grc' dir='ltr'><strong>ΜΕΜΟΙΒΕ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2142 2224 2345 2373; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 2451 2224 2660 2374; x_wconf 87' lang='lat' dir='ltr'><strong>MA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2765 2202 3236 2374; x_wconf 75' lang='lat' dir='ltr'><strong>MERE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 148 5754 970 5956">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 148 5754 970 5956">
+     <span class='ocr_line' id='line_1_3' title="bbox 148 5754 970 5956; baseline 0 46"><span class='ocrx_word' id='word_1_10' title='bbox 148 5754 970 5956; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
